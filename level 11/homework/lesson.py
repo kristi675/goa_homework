@@ -1,8 +1,8 @@
-mail = input("please enter your mail: ")
-password =input("please enter your password: ")
-email_2 = input("please reenter your email: ")
-password_2 =input("please reenter your password: ")
-print(mail == email_2 and password == password_2)
+# mail = input("please enter your mail: ")
+# password =input("please enter your password: ")
+# email_2 = input("please reenter your email: ")
+# password_2 =input("please reenter your password: ")
+# print(mail == email_2 and password == password_2)
 
 
 
