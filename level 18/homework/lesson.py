@@ -32,46 +32,46 @@
 #     print(i)
 
 
-num = int(input("please enter your num: "))
-while num != 11:
-    num=int(input("please enter your num: "))
-    print("you guessed the num: ")
+# num = int(input("please enter your num: "))
+# while num != 11:
+#     num=int(input("please enter your num: "))
+#     print("you guessed the num: ")
 
-num1 = int(input("please enter your num1: "))
-while num1 != 23:
-    num1=int(input("please enter your num1: "))
+# num1 = int(input("please enter your num1: "))
+# while num1 != 23:
+#     num1=int(input("please enter your num1: "))
 
-num2 = int(input("please enter your num2: "))
-while num2 != 100:
-    num2=int(input("please enter your num2: ")) 
+# num2 = int(input("please enter your num2: "))
+# while num2 != 100:
+#     num2=int(input("please enter your num2: ")) 
 
-num3 = int(input("please enter your num3: "))
-while num3 != 160:
-    num3=int(input("please enter your num3: ")) 
+# num3 = int(input("please enter your num3: "))
+# while num3 != 160:
+#     num3=int(input("please enter your num3: ")) 
 
-num4 = int(input("please enter your num4: "))
-while num4 != 120:
-    num4=int(input("please enter your num4: ")) 
+# num4 = int(input("please enter your num4: "))
+# while num4 != 120:
+#     num4=int(input("please enter your num4: ")) 
 
-num5 = int(input("please enter your num5: "))
-while num5 != 10:
-    num5=int(input("please enter your num5: "))
+# num5 = int(input("please enter your num5: "))
+# while num5 != 10:
+#     num5=int(input("please enter your num5: "))
 
-num6 = int(input("please enter your num6: "))
-while num6 != 30:
-    num6=int(input("please enter your num6: "))
+# num6 = int(input("please enter your num6: "))
+# while num6 != 30:
+#     num6=int(input("please enter your num6: "))
 
-num7 = int(input("please enter your num7: "))
-while num7 != 17:
-    num7=int(input("please enter your num7: "))
+# num7 = int(input("please enter your num7: "))
+# while num7 != 17:
+#     num7=int(input("please enter your num7: "))
 
-num8 = int(input("please enter your num8: "))
-while num8 != 47:
-    num8=int(input("please enter your num8: "))
+# num8 = int(input("please enter your num8: "))
+# while num8 != 47:
+#     num8=int(input("please enter your num8: "))
 
-num9 = int(input("please enter your num9: "))
-while num9 != 34:
-    num9=int(input("please enter your num9: "))
+# num9 = int(input("please enter your num9: "))
+# while num9 != 34:
+#     num9=int(input("please enter your num9: "))
 
 
 
