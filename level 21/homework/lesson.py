@@ -14,14 +14,33 @@
 #     else:
 #        print(i)
 
-midtern  = float(input("input first score(0-100): "))
-final  = float(input("input second score(0-100): "))
-project = float(input("input third score(0-100): "))
+# midtern  = float(input("input first score(0-100): "))
+# final  = float(input("input second score(0-100): "))
+# project = float(input("input third score(0-100): "))
 
-averange_score = (midtern * 0.20) + (final * 0.40) + (project * 0.40)
+# averange_score = (midtern * 0.20) + (final * 0.40) + (project * 0.40)
 
-if averange_score >= 70:
-    print("congrats u scored better than averange u won,")
-else:
-    print("sorry u failed")
+# if averange_score >= 70:
+#     print("congrats u scored better than averange u won,")
+# else:
+#     print("sorry u failed")
+
+# ask = int(input("enter your age: "))
+# ask1 = int(input("enter ur experience: "))
+# ask2 = int(input("wanna have driving license?"))
+
+# if ask >= 18:
+#     if ask1 >= 1:
+#         if ask2 == "yes":
+#             print("u got driving license")
+#         else:
+#             print("error")
+#     else:
+#         print("not much")
+
+
+# else:
+        # print("too young")
+
+
 
