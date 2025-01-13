@@ -1,0 +1,10 @@
+.z {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.z:hover{
+    width: 200px;
+    transition:0.5s ;
+}

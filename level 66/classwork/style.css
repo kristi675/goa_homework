@@ -1,0 +1,16 @@
+.q {
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(red, yellow );
+}
+
+.w {
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(green, yellow);
+}
+.g {
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(purple, pink);
+}
