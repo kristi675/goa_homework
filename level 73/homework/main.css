@@ -20,7 +20,6 @@
 .circle:hover {
   transform: rotateZ(45deg) scale(1.5);
 }
-
 .rectangle {
   width: 200px;
   height: 100px;
